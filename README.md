@@ -15,8 +15,11 @@ Este curso introduce a los estudiantes a temas clave de STEM, como la computaci�
 
 ## Estructura del Recurso
 Grado 5 – Introducción a micro:bit - 40 lecciones
+
 Grado 6 – IoT y Robótica - 40 lecciones
+
 Grado 7 – MicroPython - 40 lecciones
+
 
 ## License
 You are free to fork or clone this material. See [Licence.md](https://github.com/arm-university/International-Intro-to-Computing/blob/main/Licence.md) for the complete license.
