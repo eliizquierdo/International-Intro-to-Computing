@@ -1,22 +1,22 @@
 # International-Intro-to-Computing
 
-This is a complete curriculum designed for schools internationally and covering Grades 5 through 7. Each grade includes 40 hours of teaching and learning content and uses the Arm School Program’s project-based learning pedagogical approach. The course is based on the use of micro:bits and MicroPython.
+Este es un plan de estudios completo diseñado para escuelas a nivel internacional, que abarca los grados 5 al 7. Cada grado incluye 40 horas de contenido de enseñanza y aprendizaje y utiliza el enfoque pedagógico de aprendizaje basado en proyectos del Programa Escolar de Arm. El curso está basado en el uso de micro:bits y MicroPython
 
 ## [Download here](https://github.com/arm-university/International-Intro-to-Computing/archive/refs/heads/main.zip)
 
-## Resource Aim
-This course introduces learners to the key STEM topics of physical computing, sensors, programming and Internet of Things (IoT) through project-based learning. Learners will be immersed in a series of projects which involve rapid team-based development of a solution to meet specified criteria.  
+## Objetivos del recurso
+Este curso introduce a los estudiantes a temas clave de STEM, como la computación física, sensores, programación e Internet de las Cosas (IoT), a través del aprendizaje basado en proyectos. Los estudiantes participarán en una serie de proyectos que implican el desarrollo rápido en equipo de una solución para cumplir con criterios específicos.
 
-## Learning Outcomes
-- Learners will demonstrate relevant and comprehensive knowledge and understanding of the concepts and principals involved in the course
-- Learners will effectively apply the principles and concepts using sustained analytical and evaluative thinking and practice in order to solve a range of problems
-- Learners will demonstrate their ability to apply knowledge and understanding to solve substantial problems in an efficient manner
-- Learners will collaborate successfully with their peers and demonstrate effective communication as well as efficient and effective teamwork
+## Resultados de Aprendizaje
+- Los estudiantes demostrarán conocimientos relevantes y comprensivos, así como una comprensión profunda de los conceptos y principios implicados en el curso.
+- Los estudiantes aplicarán de manera efectiva los principios y conceptos mediante un pensamiento analítico y evaluativo sostenido para resolver una variedad de problemas.
+- Los estudiantes demostrarán su capacidad para aplicar conocimientos y comprensión para resolver problemas significativos de manera eficiente.
+- Los estudiantes colaborarán exitosamente con sus compañeros y demostrarán comunicación efectiva, así como trabajo en equipo eficiente y productivo.
 
-## Resource Structure
-- Grade 5 – Introduction to micro:bit - 40 lessons
-- Grade 6 – IoT and Robotics - 40 lessons
-- Grade 7 -  micro:python – 40 lessons
+## Estructura del Recurso
+Grado 5 – Introducción a micro:bit - 40 lecciones
+Grado 6 – IoT y Robótica - 40 lecciones
+Grado 7 – MicroPython - 40 lecciones
 
 ## License
 You are free to fork or clone this material. See [Licence.md](https://github.com/arm-university/International-Intro-to-Computing/blob/main/Licence.md) for the complete license.
