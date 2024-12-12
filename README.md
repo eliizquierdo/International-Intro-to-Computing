@@ -1,4 +1,4 @@
-# International-Intro-to-Computing
+# Introducción Internacional a la Computación
 
 Este es un plan de estudios completo diseñado para escuelas a nivel internacional, que abarca los grados 5 al 7. Cada grado incluye 40 horas de contenido de enseñanza y aprendizaje y utiliza el enfoque pedagógico de aprendizaje basado en proyectos del Programa Escolar de Arm. El curso está basado en el uso de micro:bits y MicroPython
 
